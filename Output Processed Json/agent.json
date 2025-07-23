@@ -1,0 +1,985 @@
+{
+  "folder_path": "D:\\dual cast\\dataset\\agent2",
+  "timestamp": "2025-06-28T17:04:11.990915",
+  "ocr_engine": "easyocr",
+  "total_images": 18,
+  "images_processed": 18,
+  "summary": {
+    "total_detections": 36,
+    "total_text_extractions": 36
+  },
+  "results": [
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031040.png",
+      "image_name": "Screenshot 2025-06-26 031040",
+      "timestamp": "2025-06-28T17:04:07.014196",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            809.0809936523438,
+            717.5072021484375,
+            1099.4385986328125,
+            787.3020629882812
+          ],
+          "confidence": 0.9465933442115784,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.7831939927401338,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.7831939927401338
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            1463.781494140625,
+            146.01315307617188,
+            1684.6085205078125,
+            231.9872589111328
+          ],
+          "confidence": 0.8786470890045166,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "ASTRA",
+            "confidence": 0.9994086958033398,
+            "individual_results": [
+              {
+                "text": "ASTRA",
+                "confidence": 0.9994086958033398
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031155.png",
+      "image_name": "Screenshot 2025-06-26 031155",
+      "timestamp": "2025-06-28T17:04:07.316411",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            474.3431396484375,
+            420.9853515625,
+            651.3360595703125,
+            466.6580505371094
+          ],
+          "confidence": 0.9184583425521851,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.5966051562339844,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.5966051562339844
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            864.6072387695312,
+            83.30989837646484,
+            995.8709716796875,
+            131.11097717285156
+          ],
+          "confidence": 0.895530104637146,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "ASTRA",
+            "confidence": 0.998210286457216,
+            "individual_results": [
+              {
+                "text": "ASTRA",
+                "confidence": 0.998210286457216
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031212.png",
+      "image_name": "Screenshot 2025-06-26 031212",
+      "timestamp": "2025-06-28T17:04:07.607506",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            477.3435974121094,
+            423.8744812011719,
+            651.3418579101562,
+            465.65478515625
+          ],
+          "confidence": 0.9313547611236572,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.8457976692567715,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.8457976692567715
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            868.0055541992188,
+            82.67158508300781,
+            1005.1779174804688,
+            133.92166137695312
+          ],
+          "confidence": 0.8788799047470093,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "ASTRA",
+            "confidence": 0.9994559867300712,
+            "individual_results": [
+              {
+                "text": "ASTRA",
+                "confidence": 0.9994559867300712
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031224.png",
+      "image_name": "Screenshot 2025-06-26 031224",
+      "timestamp": "2025-06-28T17:04:07.911282",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            478.5069274902344,
+            418.6573181152344,
+            654.3140258789062,
+            461.64776611328125
+          ],
+          "confidence": 0.9455718994140625,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.8547865976244747,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.8547865976244747
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            878.6746826171875,
+            79.736572265625,
+            977.3680419921875,
+            131.55828857421875
+          ],
+          "confidence": 0.8953112363815308,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "YORU",
+            "confidence": 0.9854937791824341,
+            "individual_results": [
+              {
+                "text": "YORU",
+                "confidence": 0.9854937791824341
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031230.png",
+      "image_name": "Screenshot 2025-06-26 031230",
+      "timestamp": "2025-06-28T17:04:08.217075",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            481.5232238769531,
+            419.95245361328125,
+            655.28759765625,
+            461.5538330078125
+          ],
+          "confidence": 0.9508041143417358,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.5548579974456213,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.5548579974456213
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            873.89111328125,
+            78.06536102294922,
+            983.605224609375,
+            134.64576721191406
+          ],
+          "confidence": 0.8997395038604736,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "YORU",
+            "confidence": 0.9412470459938049,
+            "individual_results": [
+              {
+                "text": "YORU",
+                "confidence": 0.9412470459938049
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031237.png",
+      "image_name": "Screenshot 2025-06-26 031237",
+      "timestamp": "2025-06-28T17:04:08.483695",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            476.0997009277344,
+            423.9685363769531,
+            649.5119018554688,
+            465.89495849609375
+          ],
+          "confidence": 0.9329198002815247,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.8865246468938308,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.8865246468938308
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            868.339111328125,
+            82.77696990966797,
+            973.4907836914062,
+            133.2145233154297
+          ],
+          "confidence": 0.9130657315254211,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "SKYE",
+            "confidence": 0.9028489589691162,
+            "individual_results": [
+              {
+                "text": "SKYE",
+                "confidence": 0.9028489589691162
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031301.png",
+      "image_name": "Screenshot 2025-06-26 031301",
+      "timestamp": "2025-06-28T17:04:08.777552",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            472.1149597167969,
+            418.0206604003906,
+            647.5953369140625,
+            461.214599609375
+          ],
+          "confidence": 0.9370672106742859,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.7997284520513459,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.7997284520513459
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            866.057373046875,
+            77.14717102050781,
+            991.0764770507812,
+            129.0164031982422
+          ],
+          "confidence": 0.9059483408927917,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "REYNA",
+            "confidence": 0.9983551645905665,
+            "individual_results": [
+              {
+                "text": "REYNA",
+                "confidence": 0.9983551645905665
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031307.png",
+      "image_name": "Screenshot 2025-06-26 031307",
+      "timestamp": "2025-06-28T17:04:09.058778",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            478.60174560546875,
+            421.27374267578125,
+            651.6397705078125,
+            463.0754699707031
+          ],
+          "confidence": 0.932046115398407,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCKIN",
+            "confidence": 0.7036632477847967,
+            "individual_results": [
+              {
+                "text": "LOCKIN",
+                "confidence": 0.7036632477847967
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            868.5174560546875,
+            79.30460357666016,
+            995.5029907226562,
+            132.06443786621094
+          ],
+          "confidence": 0.8982768058776855,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "REYNA",
+            "confidence": 0.9979126839485026,
+            "individual_results": [
+              {
+                "text": "REYNA",
+                "confidence": 0.9979126839485026
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031312.png",
+      "image_name": "Screenshot 2025-06-26 031312",
+      "timestamp": "2025-06-28T17:04:09.365007",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            474.3944396972656,
+            423.0192565917969,
+            650.360107421875,
+            464.887451171875
+          ],
+          "confidence": 0.9270044565200806,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.910395600660141,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.910395600660141
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            870.52001953125,
+            79.99012756347656,
+            1016.5222778320312,
+            136.42918395996094
+          ],
+          "confidence": 0.8918479681015015,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "BREACH",
+            "confidence": 0.9994202897280041,
+            "individual_results": [
+              {
+                "text": "BREACH",
+                "confidence": 0.9994202897280041
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031317.png",
+      "image_name": "Screenshot 2025-06-26 031317",
+      "timestamp": "2025-06-28T17:04:09.622482",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            474.14862060546875,
+            417.8148193359375,
+            647.8871459960938,
+            460.93121337890625
+          ],
+          "confidence": 0.9444570541381836,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.9558708336301065,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.9558708336301065
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            868.7687377929688,
+            77.34539794921875,
+            968.5516967773438,
+            127.74433135986328
+          ],
+          "confidence": 0.9042387008666992,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "RAZE",
+            "confidence": 0.9994077682495117,
+            "individual_results": [
+              {
+                "text": "RAZE",
+                "confidence": 0.9994077682495117
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031321.png",
+      "image_name": "Screenshot 2025-06-26 031321",
+      "timestamp": "2025-06-28T17:04:09.889086",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            473.6958923339844,
+            417.47607421875,
+            645.859375,
+            457.4736022949219
+          ],
+          "confidence": 0.920298159122467,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.9290178064325637,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.9290178064325637
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            865.5069580078125,
+            72.90681457519531,
+            970.3499755859375,
+            128.0322265625
+          ],
+          "confidence": 0.8991791605949402,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "RAZE",
+            "confidence": 0.9994674324989319,
+            "individual_results": [
+              {
+                "text": "RAZE",
+                "confidence": 0.9994674324989319
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031326.png",
+      "image_name": "Screenshot 2025-06-26 031326",
+      "timestamp": "2025-06-28T17:04:10.162973",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            473.0738220214844,
+            417.185302734375,
+            648.2741088867188,
+            461.8429870605469
+          ],
+          "confidence": 0.9423410892486572,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCKIN",
+            "confidence": 0.9106564900080986,
+            "individual_results": [
+              {
+                "text": "LOCKIN",
+                "confidence": 0.9106564900080986
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            868.2680053710938,
+            76.14892578125,
+            955.641357421875,
+            131.02755737304688
+          ],
+          "confidence": 0.8950173854827881,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "JETT",
+            "confidence": 0.9992892742156982,
+            "individual_results": [
+              {
+                "text": "JETT",
+                "confidence": 0.9992892742156982
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031330.png",
+      "image_name": "Screenshot 2025-06-26 031330",
+      "timestamp": "2025-06-28T17:04:10.527178",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            474.0447082519531,
+            414.1351013183594,
+            650.7647705078125,
+            459.42401123046875
+          ],
+          "confidence": 0.9497465491294861,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.8846550902229539,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.8846550902229539
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            872.4017333984375,
+            75.61753845214844,
+            1025.624267578125,
+            125.68157958984375
+          ],
+          "confidence": 0.910438597202301,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "PHOENIX",
+            "confidence": 0.9657285525047963,
+            "individual_results": [
+              {
+                "text": "PHOENIX",
+                "confidence": 0.9657285525047963
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031335.png",
+      "image_name": "Screenshot 2025-06-26 031335",
+      "timestamp": "2025-06-28T17:04:10.857079",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            474.93646240234375,
+            421.93414306640625,
+            651.8668823242188,
+            465.8919372558594
+          ],
+          "confidence": 0.9519197344779968,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.5345876824696476,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.5345876824696476
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            874.2235107421875,
+            81.7381820678711,
+            1029.1866455078125,
+            133.21694946289062
+          ],
+          "confidence": 0.9008318185806274,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "PHOENIX",
+            "confidence": 0.9789500478268974,
+            "individual_results": [
+              {
+                "text": "PHOENIX",
+                "confidence": 0.9789500478268974
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031342.png",
+      "image_name": "Screenshot 2025-06-26 031342",
+      "timestamp": "2025-06-28T17:04:11.144958",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            474.5721130371094,
+            421.98699951171875,
+            652.4459838867188,
+            465.99932861328125
+          ],
+          "confidence": 0.9555744528770447,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCKIN",
+            "confidence": 0.81532298084374,
+            "individual_results": [
+              {
+                "text": "LOCKIN",
+                "confidence": 0.81532298084374
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            870.1185913085938,
+            80.0959243774414,
+            975.7630615234375,
+            132.48805236816406
+          ],
+          "confidence": 0.8804889917373657,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "SAGE",
+            "confidence": 0.5351845622062683,
+            "individual_results": [
+              {
+                "text": "SAGE",
+                "confidence": 0.5351845622062683
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031350.png",
+      "image_name": "Screenshot 2025-06-26 031350",
+      "timestamp": "2025-06-28T17:04:11.439254",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            477.9880676269531,
+            421.0211181640625,
+            652.4119873046875,
+            462.35107421875
+          ],
+          "confidence": 0.9387297034263611,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.8883122735533717,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.8883122735533717
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            869.13818359375,
+            79.27869415283203,
+            977.9685668945312,
+            131.35122680664062
+          ],
+          "confidence": 0.9076762795448303,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "SOVA",
+            "confidence": 0.9642483592033386,
+            "individual_results": [
+              {
+                "text": "SOVA",
+                "confidence": 0.9642483592033386
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031359.png",
+      "image_name": "Screenshot 2025-06-26 031359",
+      "timestamp": "2025-06-28T17:04:11.697732",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            474.0502624511719,
+            421.7483215332031,
+            651.8004760742188,
+            466.1490173339844
+          ],
+          "confidence": 0.9427587389945984,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.5658528656899076,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.5658528656899076
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            867.3214111328125,
+            80.81991577148438,
+            975.4588012695312,
+            132.66514587402344
+          ],
+          "confidence": 0.9003511667251587,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "SOVA",
+            "confidence": 0.9495585560798645,
+            "individual_results": [
+              {
+                "text": "SOVA",
+                "confidence": 0.9495585560798645
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    },
+    {
+      "image_path": "D:\\dual cast\\dataset\\agent2\\Screenshot 2025-06-26 031404.png",
+      "image_name": "Screenshot 2025-06-26 031404",
+      "timestamp": "2025-06-28T17:04:11.990915",
+      "ocr_engine": "easyocr",
+      "total_detections": 2,
+      "detections_with_text": 2,
+      "detections": [
+        {
+          "bbox": [
+            475.752685546875,
+            420.6341247558594,
+            651.078369140625,
+            464.8125305175781
+          ],
+          "confidence": 0.9343839883804321,
+          "class_id": 1,
+          "class_name": "Pre LockIn",
+          "ocr_result": {
+            "text": "LOCK IN",
+            "confidence": 0.9353008738961058,
+            "individual_results": [
+              {
+                "text": "LOCK IN",
+                "confidence": 0.9353008738961058
+              }
+            ]
+          },
+          "has_text": true
+        },
+        {
+          "bbox": [
+            871.8069458007812,
+            78.5635757446289,
+            1016.2640991210938,
+            136.3411407470703
+          ],
+          "confidence": 0.8886224031448364,
+          "class_id": 0,
+          "class_name": "Agent Names",
+          "ocr_result": {
+            "text": "CYPHER",
+            "confidence": 0.999173801145067,
+            "individual_results": [
+              {
+                "text": "CYPHER",
+                "confidence": 0.999173801145067
+              }
+            ]
+          },
+          "has_text": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "image_path": "D:\\dual cast\\dataset\\buy\\buy6.jpg",
+  "image_name": "buy6",
+  "timestamp": "2025-06-28T12:22:12.377909",
+  "ocr_engine": "easyocr",
+  "total_detections": 19,
+  "detections_with_text": 19,
+  "detections": [
+    {
+      "bbox": [
+        275.45086669921875,
+        352.5485534667969,
+        374.8017272949219,
+        433.451416015625
+      ],
+      "confidence": 0.9521175622940063,
+      "class_id": 0,
+      "class_name": "event-box",
+      "ocr_result": {
+        "text": "OMNED ghosT",
+        "confidence": 0.6363727272406531,
+        "individual_results": [
+          {
+            "text": "OMNED",
+            "confidence": 0.9825383273005152
+          },
+          {
+            "text": "ghosT",
+            "confidence": 0.290207127180791
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        274.9602966308594,
+        264.7449645996094,
+        374.6461181640625,
+        349.08868408203125
+      ],
+      "confidence": 0.9497432112693787,
+      "class_id": 0,
+      "class_name": "event-box",
+      "ocr_result": {
+        "text": "0450 FRENZY",
+        "confidence": 0.7672844467512281,
+        "individual_results": [
+          {
+            "text": "0450",
+            "confidence": 0.5884742140769958
+          },
+          {
+            "text": "FRENZY",
+            "confidence": 0.9460946794254602
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        275.0882873535156,
+        179.25772094726562,
+        373.97674560546875,
+        262.0008239746094
+      ],
+      "confidence": 0.9193142056465149,
+      "class_id": 0,
+      "class_name": "event-box",
+      "ocr_result": {
+        "text": "0150 shorty",
+        "confidence": 0.4765425511464005,
+        "individual_results": [
+          {
+            "text": "0150",
+            "confidence": 0.3887283014341434
+          },
+          {
+            "text": "shorty",
+            "confidence": 0.5643568008586576
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        970.930419921875,
+        308.41668701171875,
+        1072.534912109375,
+        519.24853515625
+      ],
+      "confidence": 0.9181028008460999,
+      "class_id": 0,
+      "class_name": "event-box",
+      "ocr_result": {
+        "text": "50/50 OWNED HeAvY SHIeLDS",
+        "confidence": 0.5640748149548708,
+        "individual_results": [
+          {
+            "text": "50/50 ",
+            "confidence": 0.5651204889812567
+          },
+          {
+            "text": "OWNED",
+            "confidence": 0.9789561859355307
+          },
+          {
+            "text": "HeAvY SHIeLDS",
+            "confidence": 0.14814776994782494
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        274.2450866699219,
+        435.8495788574219,
+        377.20367431640625,
+        522.0848999023438
+      ],
+      "confidence": 0.9162225127220154,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "SHERIFF",
+        "confidence": 0.9680692827394541,
+        "individual_results": [
+          {
+            "text": "SHERIFF",
+            "confidence": 0.9680692827394541
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        552.2252807617188,
+        315.3351135253906,
+        730.8960571289062,
+        413.9710388183594
+      ],
+      "confidence": 0.9107989072799683,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "02,900 PHANTOM",
+        "confidence": 0.9915676619716017,
+        "individual_results": [
+          {
+            "text": "02,900",
+            "confidence": 0.9939279041223817
+          },
+          {
+            "text": "PHANTOM",
+            "confidence": 0.9892074198208217
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        805.3151245117188,
+        576.8880004882812,
+        1067.6898193359375,
+        680.2061157226562
+      ],
+      "confidence": 0.9004103541374207,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "p100 Sky SMoke",
+        "confidence": 0.32344318845276543,
+        "individual_results": [
+          {
+            "text": "p100",
+            "confidence": 0.2618347406387329
+          },
+          {
+            "text": "Sky SMoke",
+            "confidence": 0.3850516362667979
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        88.2932357788086,
+        216.18797302246094,
+        158.69996643066406,
+        242.22787475585938
+      ],
+      "confidence": 0.8996387720108032,
+      "class_id": 0,
+      "class_name": "event-box",
+      "ocr_result": {
+        "text": "aequesting Phaniont",
+        "confidence": 0.3230409621631253,
+        "individual_results": [
+          {
+            "text": "aequesting",
+            "confidence": 0.44311072269997365
+          },
+          {
+            "text": "Phaniont",
+            "confidence": 0.20297120162627685
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        539.9835205078125,
+        573.167236328125,
+        800.4368286132812,
+        684.544189453125
+      ],
+      "confidence": 0.8973352909088135,
+      "class_id": 0,
+      "class_name": "event-box",
+      "ocr_result": {
+        "text": "FULL IncENdIARY",
+        "confidence": 0.5131752658346814,
+        "individual_results": [
+          {
+            "text": "FULL",
+            "confidence": 0.5765079855918884
+          },
+          {
+            "text": "IncENdIARY",
+            "confidence": 0.44984254607747437
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        735.95849609375,
+        433.96441650390625,
+        965.4466552734375,
+        533.6719360351562
+      ],
+      "confidence": 0.8963832259178162,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "03,200 ODIN",
+        "confidence": 0.8592870065436701,
+        "individual_results": [
+          {
+            "text": "03,200",
+            "confidence": 0.7207275885077198
+          },
+          {
+            "text": "ODIN",
+            "confidence": 0.9978464245796204
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        966.0905151367188,
+        89.9828872680664,
+        1068.700927734375,
+        303.5947570800781
+      ],
+      "confidence": 0.894922137260437,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "aLoo Light SHIELdS",
+        "confidence": 0.4003825522962222,
+        "individual_results": [
+          {
+            "text": "aLoo",
+            "confidence": 0.02476406842470169
+          },
+          {
+            "text": "Light SHIELdS",
+            "confidence": 0.7760010361677427
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        734.070556640625,
+        207.61317443847656,
+        954.9142456054688,
+        325.39849853515625
+      ],
+      "confidence": 0.8909260034561157,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "04.700 OpeRATOR MACHINE GUNS",
+        "confidence": 0.7277696834324584,
+        "individual_results": [
+          {
+            "text": "04.700",
+            "confidence": 0.8468911030775255
+          },
+          {
+            "text": "OpeRATOR",
+            "confidence": 0.35008403317828873
+          },
+          {
+            "text": "MACHINE GUNS",
+            "confidence": 0.9863339140415609
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        553.9225463867188,
+        217.9844970703125,
+        730.0990600585938,
+        318.00457763671875
+      ],
+      "confidence": 0.8740749359130859,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "02,250 GUARDIAN",
+        "confidence": 0.7468572039986556,
+        "individual_results": [
+          {
+            "text": "02,250",
+            "confidence": 0.9827472859602614
+          },
+          {
+            "text": "GUARDIAN",
+            "confidence": 0.5109671220370499
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        735.273193359375,
+        325.6580810546875,
+        965.9608764648438,
+        427.0775146484375
+      ],
+      "confidence": 0.8733320832252502,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "550 ARES",
+        "confidence": 0.9752852376063169,
+        "individual_results": [
+          {
+            "text": "550",
+            "confidence": 0.999877285114825
+          },
+          {
+            "text": "ARES",
+            "confidence": 0.9506931900978088
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        736.1879272460938,
+        94.68023681640625,
+        953.05517578125,
+        197.798583984375
+      ],
+      "confidence": 0.8705505728721619,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "0950 MARSHAL",
+        "confidence": 0.990679612376932,
+        "individual_results": [
+          {
+            "text": "0950",
+            "confidence": 0.986329972743988
+          },
+          {
+            "text": "MARSHAL",
+            "confidence": 0.995029252009876
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        382.9595947265625,
+        214.86802673339844,
+        547.8869018554688,
+        302.3834533691406
+      ],
+      "confidence": 0.8701286911964417,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "01,600 SPECTRE",
+        "confidence": 0.9745638866996144,
+        "individual_results": [
+          {
+            "text": "01,600",
+            "confidence": 0.9953643876860913
+          },
+          {
+            "text": "SPECTRE",
+            "confidence": 0.9537633857131375
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        275.7126770019531,
+        91.57469177246094,
+        372.7205505371094,
+        175.48626708984375
+      ],
+      "confidence": 0.8604320883750916,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "FRE CLASSIC",
+        "confidence": 0.6069968167257428,
+        "individual_results": [
+          {
+            "text": "FRE",
+            "confidence": 0.4408838533415364
+          },
+          {
+            "text": "CLASSIC",
+            "confidence": 0.7731097801099491
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        275.5386657714844,
+        569.6610107421875,
+        536.94775390625,
+        685.9896850585938
+      ],
+      "confidence": 0.8603076934814453,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "d100 STIM BEACON",
+        "confidence": 0.5796762358682401,
+        "individual_results": [
+          {
+            "text": "d100",
+            "confidence": 0.5169667601585388
+          },
+          {
+            "text": "STIM BEACON",
+            "confidence": 0.6423857115779413
+          }
+        ]
+      },
+      "has_text": true
+    },
+    {
+      "bbox": [
+        395.8652648925781,
+        433.7097473144531,
+        547.7593383789062,
+        520.3756713867188
+      ],
+      "confidence": 0.8549711108207703,
+      "class_id": 1,
+      "class_name": "not event box",
+      "ocr_result": {
+        "text": "01,850 JUdoE",
+        "confidence": 0.7227623201070627,
+        "individual_results": [
+          {
+            "text": "01,850",
+            "confidence": 0.9826838730279703
+          },
+          {
+            "text": "JUdoE",
+            "confidence": 0.4628407671861549
+          }
+        ]
+      },
+      "has_text": true
+    }
+  ]
+}

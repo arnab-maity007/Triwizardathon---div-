@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "image_name": "buy6",
+    "timestamp": "2025-06-28T12:22:12.377909",
+    "total_event_boxes_analyzed": 6
+  },
+  "items": [
+    {
+      "item_name": "frenzy",
+      "category": "sidearms",
+      "status": "weapon_hover",
+      "price": "0450",
+      "confidence": 0.767,
+      "original_text": "0450 FRENZY"
+    },
+    {
+      "item_name": "ghost",
+      "category": "sidearms",
+      "status": "side_arm_owned",
+      "price": null,
+      "confidence": 0.636,
+      "original_text": "OMNED ghosT"
+    },
+    {
+      "item_name": "incendiary",
+      "category": "abilities",
+      "status": "ability_owned",
+      "price": null,
+      "confidence": 0.513,
+      "original_text": "FULL IncENdIARY"
+    },
+    {
+      "item_name": "heavy_shields",
+      "category": "armor",
+      "status": "shield_owned",
+      "price": "50",
+      "confidence": 0.508,
+      "original_text": "50/50 OWNED HeAvY SHIeLDS"
+    },
+    {
+      "item_name": "shorty",
+      "category": "sidearms",
+      "status": "weapon_hover",
+      "price": "0150",
+      "confidence": 0.477,
+      "original_text": "0150 shorty"
+    },
+    {
+      "item_name": "phantom",
+      "category": "rifles",
+      "status": "requesting_weapon",
+      "price": null,
+      "confidence": 0.323,
+      "original_text": "aequesting Phaniont"
+    }
+  ]
+}

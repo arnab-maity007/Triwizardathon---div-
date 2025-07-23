@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "image_name": "buy6",
+    "timestamp": "2025-06-28T12:22:12.377909",
+    "total_detections": 19,
+    "detections_with_text": 19,
+    "total_event_boxes": 6,
+    "event_boxes_with_text": 6
+  },
+  "classifications": [
+    {
+      "original_text": "OMNED ghosT",
+      "ocr_confidence": 0.6363727272406531,
+      "bbox": [
+        275.45086669921875,
+        352.5485534667969,
+        374.8017272949219,
+        433.451416015625
+      ],
+      "price": null,
+      "status": "side_arm_owned",
+      "is_request": false,
+      "category": "sidearms",
+      "weapon": "ghost",
+      "match_score": 1.0,
+      "classification_confidence": 0.6363727272406531,
+      "original_class": "event-box"
+    },
+    {
+      "original_text": "0450 FRENZY",
+      "ocr_confidence": 0.7672844467512281,
+      "bbox": [
+        274.9602966308594,
+        264.7449645996094,
+        374.6461181640625,
+        349.08868408203125
+      ],
+      "price": "0450",
+      "status": "weapon_hover",
+      "is_request": false,
+      "category": "sidearms",
+      "weapon": "frenzy",
+      "match_score": 1.0,
+      "classification_confidence": 0.7672844467512281,
+      "original_class": "event-box"
+    },
+    {
+      "original_text": "0150 shorty",
+      "ocr_confidence": 0.4765425511464005,
+      "bbox": [
+        275.0882873535156,
+        179.25772094726562,
+        373.97674560546875,
+        262.0008239746094
+      ],
+      "price": "0150",
+      "status": "weapon_hover",
+      "is_request": false,
+      "category": "sidearms",
+      "weapon": "shorty",
+      "match_score": 1.0,
+      "classification_confidence": 0.4765425511464005,
+      "original_class": "event-box"
+    },
+    {
+      "original_text": "50/50 OWNED HeAvY SHIeLDS",
+      "ocr_confidence": 0.5640748149548708,
+      "bbox": [
+        970.930419921875,
+        308.41668701171875,
+        1072.534912109375,
+        519.24853515625
+      ],
+      "price": "50",
+      "status": "shield_owned",
+      "is_request": false,
+      "category": "armor",
+      "weapon": "heavy_shields",
+      "match_score": 0.9,
+      "classification_confidence": 0.5076673334593838,
+      "original_class": "event-box"
+    },
+    {
+      "original_text": "aequesting Phaniont",
+      "ocr_confidence": 0.3230409621631253,
+      "bbox": [
+        88.2932357788086,
+        216.18797302246094,
+        158.69996643066406,
+        242.22787475585938
+      ],
+      "price": null,
+      "status": "requesting_weapon",
+      "is_request": true,
+      "category": "rifles",
+      "weapon": "phantom",
+      "match_score": 1.0,
+      "classification_confidence": 0.3230409621631253,
+      "original_class": "event-box"
+    },
+    {
+      "original_text": "FULL IncENdIARY",
+      "ocr_confidence": 0.5131752658346814,
+      "bbox": [
+        539.9835205078125,
+        573.167236328125,
+        800.4368286132812,
+        684.544189453125
+      ],
+      "price": null,
+      "status": "ability_owned",
+      "is_request": false,
+      "category": "abilities",
+      "weapon": "incendiary",
+      "match_score": 1.0,
+      "classification_confidence": 0.5131752658346814,
+      "original_class": "event-box"
+    }
+  ],
+  "summary": {
+    "requesting_weapon": [
+      {
+        "original_text": "aequesting Phaniont",
+        "ocr_confidence": 0.3230409621631253,
+        "bbox": [
+          88.2932357788086,
+          216.18797302246094,
+          158.69996643066406,
+          242.22787475585938
+        ],
+        "price": null,
+        "status": "requesting_weapon",
+        "is_request": true,
+        "category": "rifles",
+        "weapon": "phantom",
+        "match_score": 1.0,
+        "classification_confidence": 0.3230409621631253,
+        "original_class": "event-box"
+      }
+    ],
+    "teammate_requesting_weapon": [],
+    "weapon_owned": [],
+    "shield_owned": [
+      {
+        "original_text": "50/50 OWNED HeAvY SHIeLDS",
+        "ocr_confidence": 0.5640748149548708,
+        "bbox": [
+          970.930419921875,
+          308.41668701171875,
+          1072.534912109375,
+          519.24853515625
+        ],
+        "price": "50",
+        "status": "shield_owned",
+        "is_request": false,
+        "category": "armor",
+        "weapon": "heavy_shields",
+        "match_score": 0.9,
+        "classification_confidence": 0.5076673334593838,
+        "original_class": "event-box"
+      }
+    ],
+    "ability_owned": [
+      {
+        "original_text": "FULL IncENdIARY",
+        "ocr_confidence": 0.5131752658346814,
+        "bbox": [
+          539.9835205078125,
+          573.167236328125,
+          800.4368286132812,
+          684.544189453125
+        ],
+        "price": null,
+        "status": "ability_owned",
+        "is_request": false,
+        "category": "abilities",
+        "weapon": "incendiary",
+        "match_score": 1.0,
+        "classification_confidence": 0.5131752658346814,
+        "original_class": "event-box"
+      }
+    ],
+    "side_arm_owned": [
+      {
+        "original_text": "OMNED ghosT",
+        "ocr_confidence": 0.6363727272406531,
+        "bbox": [
+          275.45086669921875,
+          352.5485534667969,
+          374.8017272949219,
+          433.451416015625
+        ],
+        "price": null,
+        "status": "side_arm_owned",
+        "is_request": false,
+        "category": "sidearms",
+        "weapon": "ghost",
+        "match_score": 1.0,
+        "classification_confidence": 0.6363727272406531,
+        "original_class": "event-box"
+      }
+    ],
+    "weapon_hover": [
+      {
+        "original_text": "0450 FRENZY",
+        "ocr_confidence": 0.7672844467512281,
+        "bbox": [
+          274.9602966308594,
+          264.7449645996094,
+          374.6461181640625,
+          349.08868408203125
+        ],
+        "price": "0450",
+        "status": "weapon_hover",
+        "is_request": false,
+        "category": "sidearms",
+        "weapon": "frenzy",
+        "match_score": 1.0,
+        "classification_confidence": 0.7672844467512281,
+        "original_class": "event-box"
+      },
+      {
+        "original_text": "0150 shorty",
+        "ocr_confidence": 0.4765425511464005,
+        "bbox": [
+          275.0882873535156,
+          179.25772094726562,
+          373.97674560546875,
+          262.0008239746094
+        ],
+        "price": "0150",
+        "status": "weapon_hover",
+        "is_request": false,
+        "category": "sidearms",
+        "weapon": "shorty",
+        "match_score": 1.0,
+        "classification_confidence": 0.4765425511464005,
+        "original_class": "event-box"
+      }
+    ],
+    "sidearms": [],
+    "smgs": [],
+    "rifles": [],
+    "sniper_rifles": [],
+    "shotguns": [],
+    "machine_guns": [],
+    "armor": [],
+    "abilities": [],
+    "unclassified": []
+  }
+}

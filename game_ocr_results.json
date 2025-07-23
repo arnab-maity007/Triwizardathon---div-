@@ -1,0 +1,43 @@
+[
+  {
+    "image_name": "image.png",
+    "event_boxes": [
+      {
+        "box_id": 0,
+        "coordinates": {
+          "x": 1499.651611328125,
+          "y": 410.217529296875,
+          "width": 199.64111328125,
+          "height": 139.05276489257812
+        },
+        "confidence": 0.92424076795578,
+        "extracted_text": "FULL",
+        "ocr_confidence": 0.9998177289962769
+      },
+      {
+        "box_id": 1,
+        "coordinates": {
+          "x": 1754.239990234375,
+          "y": 409.26251220703125,
+          "width": 197.3514404296875,
+          "height": 140.2320556640625
+        },
+        "confidence": 0.9137101173400879,
+        "extracted_text": "OWNED",
+        "ocr_confidence": 0.9996721247627017
+      },
+      {
+        "box_id": 2,
+        "coordinates": {
+          "x": 612.0759887695312,
+          "y": 851.3470458984375,
+          "width": 200.589111328125,
+          "height": 139.475830078125
+        },
+        "confidence": 0.9112914204597473,
+        "extracted_text": "CLASSIC",
+        "ocr_confidence": 0.9999518788822722
+      }
+    ]
+  }
+]
