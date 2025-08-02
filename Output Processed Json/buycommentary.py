@@ -28,7 +28,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # --- Add ElevenLabs API Key ---
-ELEVENLABS_API_KEY = "API_KEY" # API KEY HERE 
+ELEVENLABS_API_KEY = "sk_a4a4e9f07cf89c9b8c0ac00f784c778200ef67715c83fb8b" # API KEY HERE 
 client = ElevenLabs(api_key=ELEVENLABS_API_KEY)
 
 class EventType(Enum):
@@ -501,12 +501,12 @@ class BuyPhaseCommentator:
         """Converts text to speech and plays it using ElevenLabs."""
         try:
             # Select a voice based on the caster role
-            voice = "Adam" if caster_role == CasterRole.ANALYST else "Josh"
+            voice_id = "Adam" if caster_role == CasterRole.ANALYST else "Josh"
             
             # Generate audio using the client's TTS stream capability
             audio_stream = client.generate(
                 text=text,
-                voice=voice,
+                voice=voice_id,
                 model="eleven_multilingual_v2"
             )
             
