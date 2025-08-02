@@ -501,12 +501,12 @@ class BuyPhaseCommentator:
         """Converts text to speech and plays it using ElevenLabs."""
         try:
             # Select a voice based on the caster role
-            voice_id = "Adam" if caster_role == CasterRole.ANALYST else "Josh"
+            voice = "Adam" if caster_role == CasterRole.ANALYST else "Josh"
             
             # Generate audio using the client's TTS stream capability
             audio_stream = client.generate(
                 text=text,
-                voice=voice_id,
+                voice=voice,
                 model="eleven_multilingual_v2"
             )
             
