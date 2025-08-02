@@ -28,7 +28,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # --- Add ElevenLabs API Key ---
-ELEVENLABS_API_KEY = "sk_e1d104571cb4b17009826857650a027b38bec729fa29ce49" # API KEY HERE 
+ELEVENLABS_API_KEY = "API_KEY" # API KEY HERE 
 client = ElevenLabs(api_key=ELEVENLABS_API_KEY)
 
 class EventType(Enum):
