@@ -14,6 +14,7 @@ from dataclasses import dataclass
 from enum import Enum
 import threading
 import logging
+from elevenlabs.client import ElevenLabs
 
 # Configure logging
 logging.basicConfig(
@@ -25,6 +26,10 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+
+# --- Add ElevenLabs API Key ---
+ELEVENLABS_API_KEY = "sk_e1d104571cb4b17009826857650a027b38bec729fa29ce49" # API KEY HERE 
+client = ElevenLabs(api_key=ELEVENLABS_API_KEY)
 
 class EventType(Enum):
     REQUESTING_WEAPON = "requesting_weapon"
@@ -491,12 +496,35 @@ class BuyPhaseCommentator:
                 self._output_commentary(commentary)
         
         return True
-    
+
+    def _speak_commentary(self, text: str, caster_role: CasterRole):
+        """Converts text to speech and plays it using ElevenLabs."""
+        try:
+            # Select a voice based on the caster role
+            voice_id = "Adam" if caster_role == CasterRole.ANALYST else "Josh"
+            
+            # Generate audio using the client's TTS stream capability
+            audio_stream = client.generate(
+                text=text,
+                voice=voice_id,
+                model="eleven_multilingual_v2"
+            )
+            
+            # The 'stream' function from the library plays the audio stream
+            from elevenlabs import stream
+            stream(audio_stream)
+            
+        except Exception as e:
+            logger.error(f"Failed to generate or play audio: {e}")
+
     def _output_commentary(self, commentary: CommentaryLine):
         """Output commentary line to console and log"""
         output = f"[{commentary.caster}] {commentary.text}"
         print(f"\n🎙️  {output}")
         logger.info(f"Commentary: {output}")
+
+        # --- Add this line to speak the commentary ---
+        self._speak_commentary(commentary.text, CasterRole(commentary.caster))
     
     def start_monitoring(self):
         """Start the main monitoring loop"""
